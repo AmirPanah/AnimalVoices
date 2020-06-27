@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AnimalVoice</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="dialog">پیام شما در اینجا نمایش داده می شود .</string>
+ 	<string name="dialog_title">Frog</string>
+    <string name="dialogdog">پیام شما در اینجا نمایش داده می شود .</string>
+ 	<string name="dialogdog_title">Dog</string>
+ 	<string name="dialogelephant">پیام شما در اینجا نمایش داده می شود .</string>
+ 	<string name="dialogelephant_title">Elephant</string>
+ 	<string name="dialoghorse">پیام شما در اینجا نمایش داده می شود .</string>
+ 	<string name="dialoghorse_title">Horse</string>
+ 	<string name="dialogcow">پیام شما در اینجا نمایش داده می شود .</string>
+ 	<string name="dialogcow_title">Cow</string>
+ 	<string name="dialogsheep">پیام شما در اینجا نمایش داده می شود .</string>
+ 	<string name="dialogsheep_title">Sheep</string>
+ 	<string name="dialogduck">پیام شما در اینجا نمایش داده می شود .</string>
+ 	<string name="dialogduck_title">Duck</string>
+ 	<string name="dialogdonkey">پیام شما در اینجا نمایش داده می شود .</string>
+ 	<string name="dialogdonkey_title">Donkey</string>
+ 	<string name="dialogrooster">پیام شما در اینجا نمایش داده می شود .</string>
+ 	<string name="dialogrooster_title">Rooster</string>
+ 	<string name="dialogqanary">پیام شما در اینجا نمایش داده می شود .</string>
+ 	<string name="dialogqanary_title">Qanary</string>
+ 	<string name="dialogfly">پیام شما در اینجا نمایش داده می شود .</string>
+ 	<string name="dialogfly_title">Fly</string>
+	<string name="dialogwolf">پیام شما در اینجا نمایش داده می شود .</string>
+ 	<string name="dialogwolf_title">Wolf</string>
+ 	<string name="dialogsparrow">پیام شما در اینجا نمایش داده می شود .</string>
+ 	<string name="dialogsparrow_title">Sparrow</string>
+ 	<string name="dialogcrow">پیام شما در اینجا نمایش داده می شود .</string>
+ 	<string name="dialogcrow_title">Crow</string>
+ 	<string name="dialoggoose">پیام شما در اینجا نمایش داده می شود .</string>
+ 	<string name="dialoggoose_title">Goose</string>
+ 	<string name="dialogchick">پیام شما در اینجا نمایش داده می شود .</string>
+ 	<string name="dialogchick_title">Chick</string>
+ 	<string name="dialogbear">پیام شما در اینجا نمایش داده می شود .</string>
+ 	<string name="dialogbear_title">Bear</string>
+ 	<string name="dialogbee">پیام شما در اینجا نمایش داده می شود .</string>
+ 	<string name="dialogbee_title">Bee</string>
+ 	<string name="dialogcat">پیام شما در اینجا نمایش داده می شود .</string>
+ 	<string name="dialogcat_title">Cat</string>
+ 	<string name="dialoglapwing">پیام شما در اینجا نمایش داده می شود .</string>
+ 	<string name="dialoglapwing_title">Lapwing</string>
+ 	<string name="dialoglion">پیام شما در اینجا نمایش داده می شود .</string>
+ 	<string name="dialoglion_title">Lion</string>
+ 	<string name="dialogowl">پیام شما در اینجا نمایش داده می شود .</string>
+ 	<string name="dialogowl_title">Owl</string>
+ 	<string name="dialogparrot">پیام شما در اینجا نمایش داده می شود .</string>
+ 	<string name="dialogparrot_title">Parrot</string>
+ 	<string name="dialogpeacock">پیام شما در اینجا نمایش داده می شود .</string>
+ 	<string name="dialogpeacock_title">Peacock</string>
+ 	<string name="dialogpigeon">پیام شما در اینجا نمایش داده می شود .</string>
+ 	<string name="dialogpigeon_title">Pigeon</string>
+ 	<string name="dialogtiger">پیام شما در اینجا نمایش داده می شود .</string>
+ 	<string name="dialogtiger_title">Tiger</string>
+ 	<string name="dialogwoodpecker">پیام شما در اینجا نمایش داده می شود .</string>
+ 	<string name="dialogwoodpecker_title">Woodpecker</string>
+ 	<string name="dialogabout">پیام شما در اینجا نمایش داده می شود .</string>
+ 	<string name="dialogabout_title">About Us</string>
+ 	
+ 	 	
+</resources>
